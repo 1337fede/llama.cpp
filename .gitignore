@@ -1,3 +1,11 @@
+# Added Stuff
+# Personal conversations and local models
+/AAA_added/conversations/*
+!/AAA_added/conversations/.gitkeep
+/AAA_added/models/*
+!/AAA_added/models/.gitkeep
+
+
 # Extensions
 
 *.a
